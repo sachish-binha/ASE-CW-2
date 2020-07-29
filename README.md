@@ -1,4 +1,4 @@
-Advanced Software Engineering Coursework -2 19-20 HERIOT WATT ADVANCE SOFTWARE ENGINEERING This is a project repository for our Advanced Software Engineering course project in Heriot Watt University. This project done by 5 members, those are
+Advanced Software Engineering Coursework-2 19-20 HERIOT WATT ADVANCE SOFTWARE ENGINEERING This is a project repository for our Advanced Software Engineering course project in Heriot Watt University. This project done by 5 members, those are
 
 1.Subbarayudu Chinntakuunta
 
