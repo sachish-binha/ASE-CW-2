@@ -1,4 +1,4 @@
-Advanced Software Engineering Coursework-2, 19-20 HERIOT WATT ADVANCE SOFTWARE ENGINEERING This is a project repository for our Advanced Software Engineering course project in Heriot Watt University. This project done by 5 members, those are
+This is a project repository for our Advanced Software Engineering course work-2,at Heriot-Watt University, and we are a team of five
 
 1.Subbarayudu Chinntakuunta
 
@@ -10,4 +10,4 @@ Advanced Software Engineering Coursework-2, 19-20 HERIOT WATT ADVANCE SOFTWARE E
 
 5.Sai Charan Katta
 
-For UML diagrams we used www.draw.io
+
